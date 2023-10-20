@@ -76,5 +76,3 @@ public class RoundRobin {
             sum += num;
         }
         return (float) sum / arr.length;
-    }
-}
